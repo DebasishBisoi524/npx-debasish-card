@@ -1,0 +1,27 @@
+{
+  "name": "debasish-dev",
+  "version": "1.0.2",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "debasish-bisoi": "./index.js"
+  },
+  "scripts": {
+    "test": "node card.js",
+    "pub": "npm version major & npm publish"
+  },
+  "keywords": [
+    "Card",
+    "Npx"
+  ],
+  "author": "Debasish Bisoi",
+  "license": "ISC",
+  "description": "A personal terminal card",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "inquirer": "^9.3.1",
+    "open": "^10.1.0"
+  }
+}
