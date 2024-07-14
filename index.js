@@ -67,7 +67,7 @@ const me = boxen(
       "Hi There! I'm Debasish Bisoi, a passionate Full-Stack Web Developer"
     )}`,
     `${chalk.bold.yellow(
-      "  and a DSA Problem Solver from India. I create beutiful, cool,  "
+      "  and a DSA Problem Solver from India. I create beautiful, cool,  "
     )}`,
     `${chalk.bold.yellow(
       "and responsive Website. Toss me an email if you want to collab! "
