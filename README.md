@@ -12,7 +12,7 @@ npm install -g npx-debasish-card
 
 ## Usage
 
-To generate a business card, run the following command:
+To generate a business card, run the following command
 
 ```bash
 npx-debasish-card
