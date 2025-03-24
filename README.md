@@ -1,4 +1,3 @@
-Based on the URL you provided, it seems you want to generate a `README.md` file for the GitHub repository `DebasishBisoi524/npx-debasish-card`. Below is a sample `README.md` content that you can use for this repository. You can customize it further based on the specific details and features of your project.
 
 ---
 
