@@ -1,3 +1,5 @@
+Based on the URL you provided, it seems you want to generate a `README.md` file for the GitHub repository `DebasishBisoi524/npx-debasish-card`. Below is a sample `README.md` content that you can use for this repository. You can customize it further based on the specific details and features of your project.
+
 ---
 
 # npx-debasish-card
@@ -6,13 +8,15 @@ A simple npm package to generate a personalized business card.
 
 ## Installation
 
+To install the package globally, run the following command:
+
 ```bash
 npm install -g npx-debasish-card
 ```
 
 ## Usage
 
-To generate a business card, run the following command
+To generate a business card, run the following command:
 
 ```bash
 npx-debasish-card
@@ -22,9 +26,9 @@ This will prompt you to enter your details, such as name, title, email, and phon
 
 ## Features
 
-- Easy to use CLI interface
-- Customizable fields for name, title, email, and phone number
-- Simple and clean design
+- **Easy to use CLI interface**: Quickly generate a business card using a simple command-line interface.
+- **Customizable fields**: Customize your business card with fields for name, title, email, and phone number.
+- **Simple and clean design**: The generated business card has a clean and professional look.
 
 ## Contributing
 
@@ -36,4 +40,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify this template to better suit the specific details and features of your project.
+Feel free to modify this template to better suit the specific details and features of your project. If you need further customization or additional sections, let me know!
