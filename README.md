@@ -1,42 +1,48 @@
+# 📇 npx-debasish-card
 
----
+A digital business card for Debasish Bisoi, built using Node.js. Run it right from your terminal using `npx`!
 
-# npx-debasish-card
+## 📦 Installation
 
-A simple npm package to generate a personalized business card.
-
-## Installation
-
-To install the package globally, run the following command:
+You don’t need to clone or install anything manually. Just run the following command in your terminal:
 
 ```bash
-npm install -g npx-debasish-card
+npx debasish-dev
 ```
 
-## Usage
+> ⚠️ Make sure you have Node.js (v12 or above) and npm installed.
 
-To generate a business card, run the following command:
+## 📌 What It Does
 
-```bash
-npx-debasish-card
-```
+This CLI tool displays a digital card with details about me – Debasish Bisoi – including:
 
-This will prompt you to enter your details, such as name, title, email, and phone number. Once you provide the required information, it will generate a business card in the terminal.
+- 💼 Job role / what I do
+- 🌐 Links to my GitHub, LinkedIn, and portfolio
+- 📬 Contact information
+- 💻 Skills & Technologies
 
-## Features
+It’s a fun and interactive way to share your information via the terminal!
 
-- **Easy to use CLI interface**: Quickly generate a business card using a simple command-line interface.
-- **Customizable fields**: Customize your business card with fields for name, title, email, and phone number.
-- **Simple and clean design**: The generated business card has a clean and professional look.
+## 🔧 How It Works
 
-## Contributing
+This tool is built using:
+- [Node.js](https://nodejs.org/)
+- [Inquirer](https://www.npmjs.com/package/inquirer)
+- [Chalk](https://www.npmjs.com/package/chalk)
+- [Boxen](https://www.npmjs.com/package/boxen)
 
-Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
+These libraries are used to style the text, create interactive CLI options, and format the card nicely.
 
-## License
+## 🧠 Inspiration
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is inspired by the idea of creating an interactive command-line resume/business card that developers can share easily through their terminal.
 
----
+## 🤝 Connect with Me
 
-Feel free to modify this template to better suit the specific details and features of your project. If you need further customization or additional sections, let me know!
+- GitHub: [DebasishBisoi524](https://github.com/DebasishBisoi524)
+- LinkedIn: [Debasish Bisoi](https://linkedin.com/in/debasishbisoi)
+- Portfolio: [debasish.dev](https://your-portfolio-link.com)
+
+## 📝 License
+
+This project is licensed under the MIT License. Feel free to fork and make your own version!
