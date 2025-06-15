@@ -40,7 +40,7 @@ const data = {
   Name: chalk.bold.red("                               Debasish Bisoi"),
   Fact: chalk.white("I love Web-Dev and DSA In Java"),
   Github: chalk.white("https://github.com/DebasishBisoi524"),
-  Website: chalk.white("https://debasish-portfolio-azure.vercel.app/"),
+  Website: chalk.white("https://portfolio-main-one-silk.vercel.app/"),
   LinkedIn: chalk.white(
     "https://www.linkedin.com/in/debasish-bisoi-2b76a9253/"
   ),
